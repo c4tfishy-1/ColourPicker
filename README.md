@@ -2,6 +2,8 @@ Initial commit, 6/10/24 - A very bare bones colour picker created in Python usin
 
 Update 7/10/24 - Rewritten in CustomTkinter for a much nicer looking GUI. Run "colourpicker_v1.0" to try it out. 
 
+Another update, 7/10/24 - colour code can now be copied in either RGB or hexadecimal format.
+
 FEATURES TO BE ADDED:
 - CustomTkinter GUI [DONE]
 - Option to copy string in RGB format (instead of hexadecimal) [DONE]
