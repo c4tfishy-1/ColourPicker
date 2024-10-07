@@ -8,5 +8,7 @@ FEATURES TO BE ADDED:
 - CustomTkinter GUI [DONE]
 - Option to copy string in RGB format (instead of hexadecimal) [DONE]
 - Toggle switch for dark/light appearance mode [TODO]
+- Add eyedropper for easier selection of custom colours [TODO]
+- Clear default custom colours so users can add their own [TODO]
 
 Enjoy!
