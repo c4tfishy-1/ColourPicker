@@ -7,7 +7,7 @@ Another update, 7/10/24 - colour code can now be copied in either RGB or hexadec
 FEATURES TO BE ADDED:
 - CustomTkinter GUI [DONE]
 - Option to copy string in RGB format (instead of hexadecimal) [DONE]
-- Toggle switch for dark/light appearance mode [TODO]
+- Toggle switch for dark/light appearance mode [DONE]
 - Add eyedropper for easier selection of custom colours [TODO]
 - Clear default custom colours so users can add their own [TODO]
 
