@@ -11,4 +11,9 @@ FEATURES TO BE ADDED:
 - Add eyedropper for easier selection of custom colours [TODO]
 - Clear default custom colours so users can add their own [TODO]
 
+Usage:
+
+You may need to install Pyperclip in order to use this script. Simply open a terminal and type ```pip install pyperclip``` for that.
+Then, double click on the file and it will run!
+
 Enjoy!
