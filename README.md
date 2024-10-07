@@ -4,6 +4,8 @@ Update 7/10/24 - Rewritten in CustomTkinter for a much nicer looking GUI. Run "c
 
 Another update, 7/10/24 - colour code can now be copied in either RGB or hexadecimal format. Run "colourpicker_v1.1" to try it out.
 
+Update, 8/10/24 - users can now toggle between dark/light mode. Run "colourpicker_v1.2" to try it out.
+
 FEATURES TO BE ADDED:
 - CustomTkinter GUI [DONE]
 - Option to copy string in RGB format (instead of hexadecimal) [DONE]
@@ -14,6 +16,11 @@ FEATURES TO BE ADDED:
 Usage:
 You may need to install Pyperclip in order to use this script. Simply open a terminal and type ```pip install pyperclip``` for that.
 Then, double click on the file and it will run!
+
+Version 1.2 looks like this:
+
+<img width="525" alt="version1 2PNG" src="https://github.com/user-attachments/assets/616024ab-dcc9-456e-9baa-6e9a70aac92f">
+
 
 Version 1.1 looks like this:
 
