@@ -11,11 +11,6 @@ from tkinter import colorchooser
 import pyperclip
 import customtkinter as ctk
 
-import tkinter as tk
-from tkinter import colorchooser
-import pyperclip
-import customtkinter as ctk
-
 ctk.set_appearance_mode("light") 
 ctk.set_default_color_theme("dark-blue") 
 
