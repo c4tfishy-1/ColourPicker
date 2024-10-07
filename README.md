@@ -12,8 +12,22 @@ FEATURES TO BE ADDED:
 - Clear default custom colours so users can add their own [TODO]
 
 Usage:
-
 You may need to install Pyperclip in order to use this script. Simply open a terminal and type ```pip install pyperclip``` for that.
 Then, double click on the file and it will run!
 
+Version 1.1 looks like this:
+
+<img width="522" alt="version1 1" src="https://github.com/user-attachments/assets/664dc3e7-db45-4fa8-9968-fe70278b285b">
+
+
+Version 1.0 looks like this:
+
+<img width="223" alt="version1 0" src="https://github.com/user-attachments/assets/1d14142d-4414-4aa7-aafd-65be6543970f">
+
+
+The original script looks like this:
+
+<img width="224" alt="version_og" src="https://github.com/user-attachments/assets/356874ee-7576-4c73-a550-46aa88d885a7">
+
+We recommend users exclusively use Version 1.1, as it has more features than the other two (and cleaner code).
 Enjoy!
