@@ -36,5 +36,5 @@ The original script looks like this:
 
 <img width="224" alt="version_og" src="https://github.com/user-attachments/assets/356874ee-7576-4c73-a550-46aa88d885a7">
 
-We recommend users exclusively use Version 1.1, as it has more features than the other two (and cleaner code).
+We recommend users exclusively use the latest version, as it will have more features than the others (and cleaner code).
 Enjoy!
