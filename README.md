@@ -12,6 +12,10 @@ FEATURES TO BE ADDED:
 - Toggle switch for dark/light appearance mode [DONE]
 - Add eyedropper for easier selection of custom colours [TODO]
 - Clear default custom colours so users can add their own [TODO]
+- Option to copy string in HSL format (instead of hexadecimal/RGB) [TODO]
+- Option to allow users to type/paste a colour code into the text boxes [TODO]
+- Add a color picker to get a colour from the whole screen [TODO]
+- Toggle switch for dark/light mode on the color picker window itself [TODO] (???)
 
 Usage:
 You may need to install Pyperclip in order to use this script. Simply open a terminal and type ```pip install pyperclip``` for that.
